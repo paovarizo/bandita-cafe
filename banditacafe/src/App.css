@@ -13,6 +13,16 @@
   } */
 }
 
+.eslogan{
+  font-style: italic;
+  color: #CD5C5C;
+  font-weight: bold;
+}
+.valores p{
+  font-style: italic;
+  margin-block-start: 0 !important;
+  margin-block-end: 0 !important;
+}
 .App-header {
   background-color: #ffffff;
   display: flex;
